@@ -1,0 +1,2 @@
+* Hands-On-ML-Notes
+Notes on the book, Hands On Machine Learning with Scikit Learn, Keras and Tensorflow
